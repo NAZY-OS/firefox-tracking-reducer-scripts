@@ -36,9 +36,3 @@
 ||*.google.kr^$cookie
 ||*.google.at^$cookie
 ||*.google.ch^$cookie
-# Block google cookie banner
-##[role="dialog"][style="display: block;"]
-# Block youtube cookie banner
-youtube.com###lightbox:first-of-type
-youtube.com##.opened:first-of-type
-
